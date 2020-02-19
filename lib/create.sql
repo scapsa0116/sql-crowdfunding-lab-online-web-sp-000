@@ -15,7 +15,9 @@ age INTEGER
 
 
 
-CREATE TABLE user (
-
-
+CREATE TABLE pledge (
+id INTEGER PRIMARY KEY,
+amount INTEGER,
+project_id INTEGER,
+user_id INTEGER
 );
