@@ -10,26 +10,26 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Ironman", "Sports", 1000, "08/12/20", "08/20/20");
 
 
-INSERT INTO users (name, age) VALUES ("Catie", 34)
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
-INSERT INTO users (name, age) VALUES
+INSERT INTO users (name, age) VALUES ("Catie", 34);
+INSERT INTO users (name, age) VALUES ("Tom", 36);
+INSERT INTO users (name, age) VALUES ("Thomas", 24);
+INSERT INTO users (name, age) VALUES ("Alberto", 48);
+INSERT INTO users (name, age) VALUES ("John", 52);
+INSERT INTO users (name, age) VALUES ("Dani", 22);
+INSERT INTO users (name, age) VALUES ("Juan", 30);
+INSERT INTO users (name, age) VALUES ("Natalia", 29);
+INSERT INTO users (name, age) VALUES ("Pedro", 39);
+INSERT INTO users (name, age) VALUES ("Nick", 38);
+INSERT INTO users (name, age) VALUES ("Kevin", 33);
+INSERT INTO users (name, age) VALUES ("Lisa", 43);
+INSERT INTO users (name, age) VALUES ("Angie", 34);
+INSERT INTO users (name, age) VALUES ("Omar", 27);
+INSERT INTO users (name, age) VALUES ("Jimmy", 55);
+INSERT INTO users (name, age) VALUES ("Andreas", 24);
+INSERT INTO users (name, age) VALUES ("Eliot", 50);
+INSERT INTO users (name, age) VALUES ("Jeff", 40);
+INSERT INTO users (name, age) VALUES ("Rick", 38);
+INSERT INTO users (name, age) VALUES ("Isabela", 35);
 
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES
