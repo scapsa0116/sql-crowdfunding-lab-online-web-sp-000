@@ -1,5 +1,5 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES("harry Potter", "Movie", "500", "01/16/22", "01/22/22") 
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES("Harry Potter", "Movie", 500, "01/16/22", "01/22/22"); 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES("Toys", "Donation", 1000, "/05/17/2020", "05/30/2020"); 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES 
