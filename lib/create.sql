@@ -1,5 +1,7 @@
 CREATE TABLE projects (
-title 
+id INTEGER PRIMARY KEY,
+title TEXT,
+
 
 
 
